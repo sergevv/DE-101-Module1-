@@ -1,4 +1,4 @@
-# some data from "data-engineering" course 
+# homeworks for "data-engineering" course 
 
 Course [data-engineering](https://github.com/Data-Learn/data-engineering/blob/master/DE%20-%20101%20Guide.md) by [Dmitry Anoshin](https://www.linkedin.com/in/dmitryanoshin/)
 
